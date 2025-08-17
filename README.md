@@ -1,5 +1,3 @@
-
-
 # 🏏 IPLAnalyticsSpark: Powerhouse IPL Data Analytics Dashboard
 
 ### From Raw Data to Revealing Insights: An AI-Powered Journey into the Heart of the IPL.
@@ -14,8 +12,8 @@
 
 Welcome to **IPLAnalyticsSpark**—a game-changing, full-stack analytics dashboard that transforms raw Indian Premier League (IPL) data into electrifying insights! This project delivers interactive visualizations, advanced player metrics, and AI-powered match predictions. Perfect for cricket fans, data scientists, and recruiters looking for top-tier talent! 🚀
 
-![Dashboard Demo GIF](https://raw.githubusercontent.com/yourusername/IPLAnalyticsSpark/main/demo.gif)
-_**(Pro-Tip: Record a short GIF of your dashboard in action, name it `demo.gif`, and upload it to your repository for this to work!)**_
+![Dashboard Demo GIF](https://raw.githubusercontent.com/CHERIAN/IPLAnalyticsSpark/main/demo.gif)
+_**(Pro-Tip: Record a short GIF of your dashboard, name it `demo.gif`, and upload it to your repository for this to work!)**_
 
 ## ✨ Core Features & Technical Highlights
 
@@ -54,6 +52,7 @@ This project demonstrates a modern data science workflow using industry-standard
 | :------------------------------------------------: | :----------------------------------------------: |
 | ![Persona Plot](URL_TO_YOUR_PERSONA_PLOT_IMAGE)    | ![Toss Impact](URL_TO_YOUR_TOSS_IMPACT_IMAGE)    |
 | *Identify player archetypes at a glance.*          | *Quantify the advantage of winning the toss.*    |
+***(Remember to replace the placeholder URLs with links to screenshots from your project!)***
 
 ## 🚀 Local Setup & Installation
 
@@ -63,7 +62,7 @@ Get the dashboard running on your local machine in minutes.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/IPLAnalyticsSpark.git
+    git clone https://github.com/CHERIAN/IPLAnalyticsSpark.git
     cd IPLAnalyticsSpark
     ```
 
@@ -77,7 +76,7 @@ Get the dashboard running on your local machine in minutes.
 
 3.  **Run the Streamlit App:**
     ```bash
-    streamlit run app.py
+    streamlit run IPL-DASHBOARD.py
     ```
     Your browser will open at `http://localhost:8501`. Welcome to the analytics hub!
 
@@ -94,11 +93,11 @@ This project is built to evolve. Here are the next steps:
 
 ## 🤝 Connect & Collaborate
 
-**Built with ❤️ by CHERIAN**
+**Built with ❤️ by Cherian R**
 
-*   **GitHub:** `CHERIAN
-*   **LinkedIn:** `(https://www.linkedin.com/in/cherian-r-a1bba3292/)
-*   **Email:** `cherian262005@gmail.com
+*   **GitHub:** [@CHERIAN](https://github.com/CHERIAN)
+*   **LinkedIn:** [Cherian R](https://www.linkedin.com/in/cherian-r-a1bba3292/)
+*   **Email:** `cherian262005@gmail.com`
 
 > **Message to Recruiters:** This project is a comprehensive demonstration of my skills in data science, machine learning, and full-stack application development. It showcases my ability to manage an end-to-end data product, from raw data ingestion and feature engineering to building a predictive model and deploying an interactive user interface. I am passionate about turning complex data into actionable insights, and I am confident I can bring this value to your team. Let's connect! 💡
 
